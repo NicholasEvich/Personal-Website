@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "bcrypt": "^3.0.6",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "bootstrap": "^4.3.1",
     "braintree": "^2.18.0",
     "bunyan": "^1.8.12",
@@ -16,7 +16,7 @@
     "cookie-parser": "^1.4.4",
     "dotenv": "^8.0.0",
     "email-validator": "^2.0.4",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-rate-limit": "^5.0.0",
     "express-session": "^1.16.2",
     "mongodb": "^3.4.1",
